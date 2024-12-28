@@ -1,0 +1,44 @@
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY3VzdG9tLmNzcyIsInNvdXJjZXMiOlsiY3VzdG9tLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiJ9 */
+
+/*# sourceMappingURL=custom.css.map */
+/* Gaya untuk modal */
+dialog {
+    width: 90%;
+    max-width: 500px;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    display: none; /* Modal tidak terlihat secara default */
+    z-index: 9999; /* Pastikan modal berada di atas elemen lainnya */
+  }
+  
+  dialog[open] {
+    display: block;
+  }
+  
+  /* Header modal */
+  .dialog-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+  }
+  
+  /* Tombol close */
+  .dialog-close-btn {
+    font-size: 17px;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Konten modal */
+  .dialog-content p {
+    margin: 10px 0;
+  }
+  

@@ -1,0 +1,5 @@
+"pdf01","Dokumen dibuat pada [[date_y]]-[[date_m]]-[[date_d]]"
+"pdf02","Dokumen dibuat pada [[date_h]]:[[date_i]]"
+"pdf03","Dokumen dibuat pada [[date_y]]-[[date_m]]-[[date_d]] pukul [[date_h]]:[[date_i]]"
+"pdf04","Halaman [[page_cu]]/[[page_nb]]"
+"pdf05","Formulir memerlukan penggunaan Adobe Reader 9"

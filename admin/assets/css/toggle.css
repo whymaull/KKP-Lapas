@@ -1,0 +1,23 @@
+.toggle-switch {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 8px;
+    width: auto;
+}
+
+
+.toggle-switch .selectgroup-button {
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;  
+    border-radius: 20px;
+    transition: background-color 0.3s ease;
+}
+
+
+
+.toggle-switch .fas {
+    margin-right: 5px; 
+    font-size: 13px; 
+}

@@ -1,0 +1,7 @@
+user:
+email: deanaura58@gmail.com
+pass: Deanaura18@
+
+admin:
+email: admin@gmail.com
+pass: admin123
